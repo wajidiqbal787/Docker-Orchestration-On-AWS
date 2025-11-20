@@ -67,7 +67,7 @@ It automates deployment, scalability, and monitoring of Python, Java, and Ubuntu
 🧩 Setup Instructions
 
 # Clone the repository
-git clone https://github.com/<your-username>/docker-orchestration-on-aws.git
+git clone https://github.com/wajidiqbal787/docker-orchestration-on-aws.git
 cd docker-orchestration-on-aws
 
 # Build Docker image
